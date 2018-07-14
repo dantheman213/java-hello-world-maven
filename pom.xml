@@ -47,6 +47,17 @@
 
         </plugins>
     </build>
-
+<distributionManagement>
+    <repository>
+        <id>deployment</id>
+        <name>Internal Releases </name>
+        <url></url>
+    </repository>
+    <snapshotRepository>
+         <id>deployment</id>
+        <name>Internal Snapshot Releases </name>
+        <url></url>
+    </snapshotRepository>
+    </distributionManagement>
     <artifactId>myapp</artifactId>
 </project>
