@@ -4,6 +4,7 @@
     
     <name>My App</name>
     <version>3.5.2</version>
+    
     <url>http://maven.apache.org</url>
     <packaging>jar</packaging>
 
