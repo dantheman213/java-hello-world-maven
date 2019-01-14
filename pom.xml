@@ -65,6 +65,8 @@
         <name>Internal Snapshot Releases </name>
         <url></url>
     </snapshotRepository>
+
     </distributionManagement>
+
     <artifactId>myapp</artifactId>
 </project>
